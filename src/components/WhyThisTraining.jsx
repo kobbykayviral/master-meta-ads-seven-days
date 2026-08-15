@@ -1,4 +1,4 @@
-import { TrendingDown, Target, Wallet, Gauge, FlaskConical, ChartNoAxesCombined } from 'lucide-react'
+import { TrendingDown, Target, Wallet, Gauge, FlaskConical, BarChart3 } from 'lucide-react'
 
 const PROBLEMS = [
   { icon: TrendingDown, text: 'Boost posts without a real strategy' },
