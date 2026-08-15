@@ -6,7 +6,7 @@ const PROBLEMS = [
   { icon: Wallet, text: 'Waste money on poorly optimized campaigns' },
   { icon: Gauge, text: "Struggle to understand ad performance" },
   { icon: FlaskConical, text: "Don't know what to test" },
-  { icon: ChartNoAxesCombined, text: "Don't know how to scale winning campaigns" },
+  { icon: BarChart3, text: "Don't know how to scale winning campaigns" },
 ]
 
 export default function WhyThisTraining() {
